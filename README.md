@@ -1,12 +1,15 @@
-# React + Vite
+## Colour Guessing Game Challenge ACS-3330
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. Comment modifier l'apparence du curseur lorsqu'il survole un élément en CSS? Je veux que le curseur change de forme quand l'utilisateur passe au-dessus des carrés de couleur dans mon jeu.
 
-Currently, two official plugins are available:
+2. Comment créer une fonction JavaScript qui génère des couleurs hexadécimales RGB aléatoires pour mon composant React? J'ai besoin de générer trois couleurs différentes pour mon jeu de devinettes de couleurs.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3. Comment utiliser le rendu conditionnel en React pour afficher 'Correct' ou 'Incorrect' avec des couleurs différentes quand l'utilisateur clique sur un carré de couleur?
 
-## Expanding the ESLint configuration
+4. Quelle est la meilleure façon d'implémenter la logique de vérification quand un utilisateur clique sur une couleur dans mon jeu de devinettes?
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+AI helps a lot for when I have a idea of what to do but am not sure how I need to implement it. So I carefully ask a prompt to the LLM to get a useful response to my problem. In past I would have to look for a long time on places like StackOverflow or other forum to answer for my question.
+
+One example of a thing I did not need help with was the entire CSS file and another is the function to handle clicks.
+
+
